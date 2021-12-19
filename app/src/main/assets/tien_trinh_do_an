@@ -1,0 +1,12 @@
+- (YES) Truy vấn dữ liệu thời tiết từ database --> API weatherapi.com
+- (YES) Theo dõi thời tiết hàng ngày, hàng tuần
+- (YES) Cung cấp chi tiết thông tin mỗi giờ về điều kiện khí tượng cần thiết như nhiệt độ, độ
+ẩm,...v.v
+- (no) Thời gian mặt trời mọc và mặt trời lặn.
+- (YES) Xem báo cáo thời tiết địa phương hoặc bất cứ nơi nào trên thế giới
+- (YES) Dự báo và cập nhật khá chính xác thời tiết trong 7 ngày.
+- (no) Có thể tùy chọn giữa độ C hoặc F. --NO
+- (no) Có lịch sủ Location đã tìm kiếm(có xóa)
+
+- (no) Tạo animation
+- (YES) Tạo footer chứa cre
